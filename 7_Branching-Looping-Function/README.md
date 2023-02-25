@@ -116,7 +116,7 @@ void main(){
 ```
 
 **Output** :
-```dart
+```
 13
 ```
 
@@ -134,7 +134,7 @@ void main(){
 ```
 
 **Output** :
-```dart
+```
 reza adalah siswa kelas 10
 ```
 
