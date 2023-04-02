@@ -5,7 +5,7 @@
 ## Cara Penggunaan
 ```
 - Enter in directory :
-$cd sections_17
+$cd section_17
 
 - For Install depedencies
 $ flutter packages get
