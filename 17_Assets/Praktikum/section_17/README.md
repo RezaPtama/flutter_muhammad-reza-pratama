@@ -1,16 +1,15 @@
-# section_13
+# section_17 section_18 dan section_19
 
-A new Flutter project.
+## Folder di gabung dikarenakan kebanyakan keterbatasan ruang penyimpanan
 
-## Getting Started
+## Cara Penggunaan
+```
+- Enter in directory :
+$cd sections_17
 
-This project is a starting point for a Flutter application.
+- For Install depedencies
+$ flutter packages get
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Run the app :
+$ flutter run
+```
