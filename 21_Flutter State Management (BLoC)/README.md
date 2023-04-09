@@ -50,7 +50,7 @@ depedencies:
     equatable: ^2.0.3
 ```
 
-** Menambahkan Event**
+**Menambahkan Event**
 ```dart
 abstarct class CounterEvent extends Equatable{
     const CounterEvent();
@@ -74,7 +74,7 @@ class CounterState extends Equatable{
 }
 ```
 
-** Menambahkan Logika Bisnis**
+**Menambahkan Logika Bisnis**
 ```dart
 class CounterBloc extends Bloc<CouunterEvent, CounterState> {
     CounterBloc() : super(CounterState(0)){
